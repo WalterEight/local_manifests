@@ -7,4 +7,7 @@
     <project name="Geoknyda/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="lineage-18.1" />
     <project name="Geoknyda/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-18.1" />
     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
+    <project name="LineageOS/android_packages_apps_Email" path="packages/apps/Email" revision="lineage-17.1" />
+    <project name="LineageOS/android_packages_apps_Exchange" path="packages/apps/Exchange" revision="lineage-17.1" />
+    <project name="LineageOS/android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" revision="lineage-17.1" />
 </manifest>
